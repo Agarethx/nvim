@@ -21,6 +21,7 @@ Plug 'tpope/vim-commentary'
 Plug 'Yggdroot/indentLine'
 Plug 'vim-airline/vim-airline'
 Plug 'scrooloose/nerdtree'
+Plug 'ryanoasis/vim-devicons'
 
 call plug#end()
 
